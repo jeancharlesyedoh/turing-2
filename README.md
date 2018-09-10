@@ -1,4 +1,4 @@
-# Startup Lovelace n°2
+# Startup Turing n°2
 
 Ce repo est pour tout ce qui concerne ton activité à BeCode : briefings, parcours, etc.
 Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises à jour.
@@ -14,7 +14,7 @@ Clone-le sur ton ordi et `git pull` régulièrement afin de rapatrier les mises 
 En cas de retard, d'absence ou de départ anticipé (que ça soit prévu ou pas du tout), préviens-nous en passant par la plateforme my.becode.org. [[Mode d'emploi](https://github.com/becodeorg/BeCode/blob/master/procedure-mybecode.md)]
 
 Dans l'ordre :
-- Tu envoies également un email à tes coachs, rédigé professionnellement
+- Tu envoies un email à tes coachs, rédigé professionnellement (ludovic@becode.org et arnaud@becode.org)
 - Tu préviens via la plateforme [my.becode.org](https://my.becode.org)
 - Document justificatif, envoie-le directement, si possible, sinon envoie-le dès que tu l'as reçu.
 - Pas de justificatif ? Dis-le nous explicitement.
@@ -27,13 +27,10 @@ Dans l'ordre :
 
 ## Planning
 
-- 02/05 : début de la prairie
-- 01/06 : fin de la prairie, début de la montagne
-- 02/07 > 06/07 : Congés 1
-- 10/09 > 14/09 : Congés 2
-- 17/09 : début recherche active de stages
-- 08/10 (environ) : fin du tronc commun, début des des pâturages
-- 10/12 : départ en stages
+- 11/09 : début de la prairie
+- 11/10 : fin de la prairie, début de la montagne
+- Á VENIR ...
+
 
 ## Contenus pédagogiques
 
@@ -46,8 +43,4 @@ Dans l'ordre :
 Voici les liens vers les briefings, dans l'ordre chronologique par lequel ils te sont proposés.
 
 1. [Journal de bord](Projects/journal-de-bord)
-1. [Composants de design](Projects/composants-de-design)
-1. [Fil rouge](Projects/fil-rouge)
-1. [Challenge Javascript Solo](Projects/javascript-challenge-solo)
-1. [SSH](Projects/ssh)
-1. [Multipage website in PHP](Projects/multipage-website-in-php)
+
