@@ -8,7 +8,7 @@
 
 ### Profil GitHub
 
-Une fois inscrit•e, prends le temps de mettre à jour ton [profil GitHub](https://github.com/settings/profile). Prénom, Nom et obligatoirement une photo ressente de vous.
+Une fois inscrit•e, prends le temps de mettre à jour ton [profil GitHub](https://github.com/settings/profile). Prénom, Nom et obligatoirement une photo récente de vous.
 
 ### Utiliser GitHub avec le terminal pour **Linux**
 
