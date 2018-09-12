@@ -1,7 +1,7 @@
 ## Maîtriser Git
 
 - Objectif: Améliorer ses compétences en Git
-- Temps : 1 à 2 Jours
+- Temps : 1 Jours
 ## Instructions
 
 ### Matin
@@ -10,7 +10,8 @@
 2. Confirmer avec [Learn git branching](http://learngitbranching.js.org) _(aller le plus loin possible)_
 3. Faire le [Codeschool - Git ](https://www.codeschool.com/learn/git)
 
-### Après-midi
+### Après-midi (après la pause de 15h)
+
 4. Exercice de groupe : [cadavre exquis]()
 
 
