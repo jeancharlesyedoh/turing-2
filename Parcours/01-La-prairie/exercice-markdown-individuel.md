@@ -7,7 +7,7 @@
 
 
 ### Instructions
-- Travail seul•e
+- Travaille seul•e
 - Lis d'abord [cet article](https://dev.to/flexdinesh/create-your-developer-landing-page-with-github-pages---42jk), il présente le résultat à atteindre.
 - Suis ensuite [ces quelques instructions](https://github.com/flexdinesh/dev-landing-page#github-pages)
 - Personnalise le contenu de ta page
