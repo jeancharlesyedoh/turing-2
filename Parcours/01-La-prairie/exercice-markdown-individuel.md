@@ -12,7 +12,7 @@
 - Suis ensuite [ces quelques instructions](https://github.com/flexdinesh/dev-landing-page#github-pages)
 - Personnalise le contenu de ta page
 - Force toi à manipuler Git le plus possible uniquement via le terminal
-- Une fois que ta page est en ligne (normalement un URL qui ressemblera à `https://{username}.github.io`, publie cet URL sur notre channel Ryver "Lovelace"
+- Une fois que ta page est en ligne (normalement un URL qui ressemblera à `https://{username}.github.io`, publie cet URL sur notre channel Ryver "Turing"
 
 ## Finalement
 - Fais exprès d'introduire un bug en production, et vois comment faire un "[rollback](http://lmgtfy.com/?q=git+rollback+how-to)"
