@@ -231,7 +231,7 @@ Le CSS te permet de définir le positionnement visuel des éléments. C'est prob
 Chaque bloc html hérite (= "reçoit par défaut") d'une propriété "display" qui est soit : `display: inline | inline-block | block`  et s'affiche en fonction de son ordre d'apparition dans le fichier html. C'est ce que l'on appelle le **flux de positionnement naturel** ou plus simplement le **flux**.
 
 -  Théorie interactive : https://codepen.io/pixeline/pen/QvrbPv 
--  Exercice : un menu horizontal https://codepen.io/pixeline/pen/PmdPYL 
+-  Exercice : un menu horizontal https://codepen.io/pixeline/pen/PmdPYL ![image](https://s3.amazonaws.com/menumaker-blog/post_images/2017/06/Screen-Shot-2017-06-04-at-11.03.22-AM.png)
 -  Exercice : une grille https://codepen.io/pixeline/pen/aWavWq  
 -  `float` va laisser le block flotter sur le block suivant (au lieu de le pousser à la ligne)
 
